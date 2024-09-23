@@ -1,4 +1,14 @@
 body {
 	background-color:  #f6ddcc;
 	font-family: verdana;
+	margin: 2em;
+}
+
+p {
+	margin-left: 1em;
+}
+
+.small {
+	font-size: 75%;
+	text-align: right;
 }
